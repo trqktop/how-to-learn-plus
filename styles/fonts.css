@@ -1,0 +1,115 @@
+h1.header__title {
+  text-align: start;
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: bold;
+}
+
+p.header__subtitle {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  text-align: justify;
+}
+
+h2.two-columns__brief {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: blue;
+}
+
+p.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+
+}
+
+h2.section-title {
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+p.section-subtitle {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+}
+
+h2.cards__title {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+p.cards__description {
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+h2.feynman__title {
+  font-size: 120px;
+  line-height: 1.15;
+  font-weight: bold;
+  text-align: center;
+  
+}
+p.feyman__subtitle{
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  z-index: 1;
+}
+a.feynman__link{
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+h2.table__heading{
+ line-height: 1.15;
+ font-size: 24px;
+ font-weight: bold;
+}
+p.table__text{
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+p.khan__author{
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+}
+h2.khan__title{
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
+p.khan__quote{
+  line-height: 32px;
+  font-size: 24px;
+  font-weight: normal;
+}
+p.khan__quote-author{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bolder;
+}
+p.khan__quote-author-subline{
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: normal;
+}
+a.khan__buy-link{
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: blue;
+}

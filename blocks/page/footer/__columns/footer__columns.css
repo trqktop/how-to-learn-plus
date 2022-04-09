@@ -1,0 +1,5 @@
+.footer__colums{
+    border: 12px red solid;
+    display: flex;
+    flex-basis: 711px;
+}

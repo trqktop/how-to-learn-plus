@@ -1,0 +1,5 @@
+.footer__columns_info{
+    width: 100%;
+    border: 11px yellow dotted;
+    display: flex; 
+}
