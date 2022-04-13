@@ -1,6 +1,6 @@
 .table__theme_dark{
-    display: flex;'
+    display: flex;
     justify-content: space-around;
-    border:12px red solid;
     margin-bottom:90px;
+    z-index: 1;
 }

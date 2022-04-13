@@ -1,8 +1,5 @@
 .feynman__title{
+    display: inline;
     width:648px;
-    top:100px;
-    border: 7px black solid;
-    text-align: center;
-    margin: 0 auto;
-    
+    z-index: 1;
 }

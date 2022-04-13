@@ -1,5 +1,7 @@
 .footer__colums{
-    border: 12px red solid;
+    width: 90%;
+    height: auto;
     display: flex;
-    flex-basis: 711px;
+    justify-content: space-between;
+    margin:60px auto 40px auto;
 }

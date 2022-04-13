@@ -1,6 +1,7 @@
 .video{
-    margin-top: 100px;
-    padding: 0;
+    height: auto;
+    padding: auto;
     display: block;
+    position: relative;
    
 }

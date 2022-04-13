@@ -1,3 +1,6 @@
+ .page{
+  color: #000000;;
+ }
 h1.header__title {
   text-align: start;
   line-height: 96px;
@@ -9,14 +12,14 @@ p.header__subtitle {
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  text-align: justify;
+
 }
 
 h2.two-columns__brief {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color: blue;
+  color: #2f80ed;
 }
 
 p.two-columns__paragraph {
@@ -70,6 +73,8 @@ a.feynman__link{
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  text-decoration: none;
+  color:#2f80ed;
 }
 
 h2.table__heading{
@@ -111,5 +116,50 @@ a.khan__buy-link{
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
-  color: blue;
+  text-decoration: none;
+  color:#2f80ed;
+}
+h2.section-title__theme_dark{
+ color: white;
+ line-height: 1.15;
+ font-size: 60px;
+ font-weight: bolder;
+}
+p.section-subtitle__theme_dark{
+  color: white;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+h2.table__heading__theme_dark{
+  color: white;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bolder;
+}
+p.table__text__theme_dark{
+  color: white;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+a.footer-link{
+  text-decoration: none;
+  color:white;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+}
+p.footer__author{
+  color: white;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.footer__column-heading{
+  color: white;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: bolder;
 }

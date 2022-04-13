@@ -1,6 +1,7 @@
 
 .footer__columns_content_info{
-    border: 12px rgb(133, 85, 85) solid;
-    margin: auto;
+    border: 1px rgb(37, 34, 34) solid;
+    margin:0 auto;
+    height: 100%;
   
 }
