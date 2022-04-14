@@ -1,8 +1,9 @@
-
-.two-columns__paragraph:first-child{
+.two-columns__paragraph:first-child {
     margin-top: 0;
 }
+
+
 .two-columns__paragraph {
     display: block;
     margin-bottom: 0%;
-    }
+}

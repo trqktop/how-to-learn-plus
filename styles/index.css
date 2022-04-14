@@ -9,7 +9,8 @@
 @import url(../blocks/page/header/__subtitle/header__subtitle.css);
 @import url(../blocks/page/header/__subtitle/__link/header__link.css);
 @import url(../blocks/page/header/__square-pic/header__square-pic.css);
-@import url(../blocks/page/header/__main-illustration/header__main-illustration.css);/*опять двойка ¯\_(ツ)_/¯*/
+@import url(../blocks/page/header/__main-illustration/header__main-illustration.css);
+/*опять двойка ¯\_(ツ)_/¯*/
 @import url(../blocks/page/content/description/description.css);
 @import url(../blocks/page/content/description/two-columns/two-columns.css);
 @import url(../blocks/page/content/description/two-columns/__brief/two-columns__brief.css);
@@ -72,12 +73,3 @@
 @import url(../blocks/page/footer/__columns/__columns_info/);
 @import url(../blocks/page/footer/__columns/__columns_content_social/footer__columns_content_social.css);
 @import url(../blocks/page/footer/__columns/__columns_content_social/icon/icon.css);
-
-
-
-
-
-
-
- 
-  

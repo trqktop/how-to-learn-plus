@@ -1,6 +1,6 @@
-.resources__logo_academy{
-    background-image: url(/images/logo/resources-polka.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+.resources__logo_academy {
+  background-image: url(../../../../../../images/logo/resources-polka.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
