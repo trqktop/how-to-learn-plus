@@ -1,7 +1,7 @@
-.logo{
-    background-image: url(/images/logo.svg);
-    background-size: cover;
-    height: 32px;
-    width: 183px;
-    position: absolute;
-} 
+.logo {
+  background-image: url(../../../../images/logo.svg);
+  background-size: cover;
+  height: 32px;
+  width: 183px;
+  position: absolute;
+}
