@@ -1,10 +1,9 @@
 .cards__item {
+  margin: 0 100px 0 0;
+  padding: 0;
   width: 240px;
-  display: flex;
-  flex-direction: column;
 }
 
-.cards__item:last-child{
- margin-left: 100px;
- margin-right: auto;
+.cards__item:nth-of-type(3n) {
+  margin-right: 0;
 }
